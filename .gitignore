@@ -1,0 +1,20 @@
+# NPM package folder
+node_modules
+
+# npm logs
+*.log
+
+# package-lock
+package-lock.json
+
+# CI bins
+/bin
+
+# Dist
+/dist
+
+$ VSCode settings
+/.vscode
+
+# IDE assist files
+*.json.d.ts

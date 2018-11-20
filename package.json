@@ -1,0 +1,23 @@
+{
+  "name": "javascriptplayground",
+  "version": "1.0.0",
+  "description": "Sample utility tools",
+  "main": "fileserver.js",
+  "dependencies": {
+    "eslint": "^5.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankanup/javascriptplayground.git"
+  },
+  "author": "Anup Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankanup/javascriptplayground/issues"
+  },
+  "homepage": "https://github.com/mayankanup/javascriptplayground#readme"
+}
